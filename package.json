@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "discord-akairo": "github:SkyBlockDev/discord-akairo",
     "discord.js": "^13.1.0"
   }
 }
