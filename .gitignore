@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # Hide token
-./src/utils/config.js
+config.js
