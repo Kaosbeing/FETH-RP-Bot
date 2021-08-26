@@ -1,6 +1,6 @@
 const AnnaClient = require('./structures/AnnaClient')
-const { TOKEN } = require('./utils/config')
+const { TOKEN, PREFIX } = require('./utils/config')
 
-let client = new AnnaClient({ prefix: '!' })
+let client = new AnnaClient({ prefix: PREFIX })
 
 client.login(TOKEN)
